@@ -71,4 +71,4 @@ The Vedanta Sales Dashboard reveals that Maharashtra is the dominant market, Jan
 
 
 8. Screenshot Demo
- so what the dashboard looks like - 
+ so what the dashboard looks like - https://github.com/mehraayaanx7-rgb/Vedanta-Sales-Dashboard-/blob/main/VEDANTA%20DASHBOARD.png
